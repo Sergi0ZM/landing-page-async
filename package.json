@@ -1,0 +1,23 @@
+{
+  "name": "landing-page-async",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sergi0ZM/landing-page-async.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sergi0ZM/landing-page-async/issues"
+  },
+  "homepage": "https://github.com/Sergi0ZM/landing-page-async#readme",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
